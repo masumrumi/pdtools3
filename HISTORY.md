@@ -6,3 +6,4 @@ History
 ------------------
 
 * First release on PyPI.
+* This is great stuff
